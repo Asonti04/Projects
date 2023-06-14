@@ -1,4 +1,4 @@
-#BATCH PLACING DYNAMODB ITEMS
+#3. BATCH PLACING DYNAMODB ITEMS
 #Asonti Ginn 
 import boto3
 ddb = boto3.client('dynamodb')
