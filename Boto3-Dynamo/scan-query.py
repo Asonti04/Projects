@@ -1,4 +1,5 @@
-#SCAN & QUERY
+#4. SCAN & QUERY
+#Asonti Ginn
 import boto3
 ddb = boto3.client('dynamodb')
 response = ddb.scan(
