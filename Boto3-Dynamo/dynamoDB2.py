@@ -1,4 +1,4 @@
-#adding items to my Video-Game DynamoDB table
+#2. Adding items to my Video-Game DynamoDB table
 #Asonti Ginn
 import boto3
 ddb = boto3.client('dynamodb')
