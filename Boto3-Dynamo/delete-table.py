@@ -1,4 +1,5 @@
-#Delete item then table
+#5. Delete item then table
+#Asonti Ginn
 import boto3
 ddb = boto3.client('dynamodb')
 response = ddb.delete_item(
